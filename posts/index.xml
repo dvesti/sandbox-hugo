@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Мой Hugo Hermit</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Мой Hugo Hermit</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ru-ru</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 23 May 2020 15:14:25 +0300</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Первое Сообщение</title>
+			<link>/posts/first-post/</link>
+			<pubDate>Sat, 23 May 2020 15:14:25 +0300</pubDate>
+			
+			<guid>/posts/first-post/</guid>
+			<description>Первейший из Первых</description>
+			<content type="html"><![CDATA[<p>Первейший из Первых</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
